@@ -1,0 +1,21 @@
+For each of these sets of premises, what relevant
+conclusion or conclusions can be drawn? Explain the rules
+of inference used to obtain each conclusion from the
+premises.
+
+a) “IfI play hockey, then I am sore the next day.”
+“T use the whirlpool ifI am sore.” “I did not use
+the whirlpool.”
+
+b) “All insects have six legs.” “Dragonflies are
+insects.” “Spiders do not have six legs.”
+
+c) “Every student has an Internet account.”
+“Homer does not have an Internet account.”
+“Maggie has an Internet account.”
+
+d) “All foods that are healthy to eat do not taste
+good.” “Tofu is healthy to eat.” “You only eat
+what tastes good.” “You do not eat tofu.”
+“Cheeseburgers are not healthy to eat.”
+
